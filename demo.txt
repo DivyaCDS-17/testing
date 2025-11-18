@@ -1,2 +1,2 @@
-Hi ,how are you
-Added  new text line
+I am updating a file and 
+adding a new line
